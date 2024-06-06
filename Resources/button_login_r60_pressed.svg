@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="60"
+   height="60"
+   viewBox="0 0 15.875 15.875001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="button_login_r60_pressed.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="1980px"
+     inkscape:zoom="2.1215981"
+     inkscape:cx="-32.758325"
+     inkscape:cy="1.6496998"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs2">
+    <filter
+       id="filter0_i"
+       x="0.103546"
+       y="0.072265603"
+       width="64"
+       height="64"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood8" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="BackgroundImageFix"
+         result="shape"
+         id="feBlend10" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix12" />
+      <feMorphology
+         radius="2"
+         operator="erode"
+         in="SourceAlpha"
+         result="effect1_innerShadow"
+         id="feMorphology14" />
+      <feOffset
+         dx="4"
+         dy="4"
+         id="feOffset16" />
+      <feGaussianBlur
+         stdDeviation="0.01266654"
+         id="feGaussianBlur18" />
+      <feComposite
+         in2="hardAlpha"
+         operator="arithmetic"
+         k2="-1"
+         k3="1"
+         id="feComposite20"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.4 0"
+         id="feColorMatrix22" />
+      <feBlend
+         mode="normal"
+         in2="shape"
+         result="effect1_innerShadow"
+         id="feBlend24" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-201.57438,-105.79752)">
+    <circle
+       style="fill:#fa8229;fill-opacity:1;fill-rule:nonzero;stroke-width:0.264583"
+       id="circle1491"
+       cx="209.51189"
+       cy="113.73502"
+       r="7.9375" />
+    <path
+       id="circle2108"
+       style="fill:#7d4114;fill-opacity:1;fill-rule:nonzero;stroke-width:0.264583"
+       d="m 209.51188,105.79752 a 7.9375002,7.9375002 0 0 0 -7.9375,7.9375 7.9375002,7.9375002 0 0 0 7.9375,7.9375 7.9375002,7.9375002 0 0 0 7.9375,-7.9375 7.9375002,7.9375002 0 0 0 -7.9375,-7.9375 z m 0,1.5875 a 6.3500002,6.3500002 0 0 1 6.35,6.35 6.3500002,6.3500002 0 0 1 -6.35,6.35 6.3500002,6.3500002 0 0 1 -6.35,-6.35 6.3500002,6.3500002 0 0 1 6.35,-6.35 z" />
+    <g
+       id="g1464"
+       transform="translate(-16.711054,2.540527)">
+      <rect
+         style="fill:#ffffff;stroke-width:2.64583;stroke-dasharray:7.93749, 2.64583"
+         id="rect995"
+         width="6.614584"
+         height="1.0583344"
+         x="-229.53023"
+         y="107.49033"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:#ffffff;stroke-width:2.64583;stroke-dasharray:7.93749, 2.64583"
+         id="rect1015"
+         width="6.614584"
+         height="1.0583344"
+         x="-229.53023"
+         y="113.84033"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:#ffffff;stroke-width:2.64583;stroke-dasharray:7.93748, 2.64583"
+         id="rect1017"
+         width="7.4083338"
+         height="1.0583344"
+         x="-114.89867"
+         y="-229.53023"
+         transform="matrix(0,-1,-1,0,0,0)" />
+      <rect
+         style="fill:#ffffff;stroke-width:2.64583;stroke-dasharray:7.9375, 2.64583"
+         id="rect1019"
+         width="2.1166668"
+         height="1.0583344"
+         x="-109.60699"
+         y="-223.97398"
+         transform="matrix(0,-1,-1,0,0,0)" />
+      <rect
+         style="fill:#ffffff;stroke-width:2.64583;stroke-dasharray:7.9375, 2.64583"
+         id="rect1021"
+         width="2.1166668"
+         height="1.0583344"
+         x="-114.89867"
+         y="-223.97398"
+         transform="matrix(0,-1,-1,0,0,0)" />
+      <rect
+         style="fill:#ffffff;stroke-width:2.64583;stroke-dasharray:7.93751, 2.64583"
+         id="rect1023"
+         width="3.9636698"
+         height="1.0583344"
+         x="-225.76468"
+         y="110.66533"
+         transform="scale(-1,1)" />
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;stroke-width:11.2013;stroke-dasharray:33.6041, 11.2013"
+         id="path1047"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="81.306633"
+         sodipodi:cy="52.31905"
+         sodipodi:r1="6.7207685"
+         sodipodi:r2="3.360384"
+         sodipodi:arg1="0"
+         sodipodi:arg2="1.0471976"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(0.23620679,0,0,0.23620679,206.62089,98.836379)"
+         inkscape:transform-center-x="-0.39687672"
+         inkscape:transform-center-y="1.7957407e-06"
+         d="M 88.027401,52.31905 77.946249,58.139406 V 46.498694 Z" />
+    </g>
+  </g>
+</svg>

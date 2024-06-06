@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="22"
+   viewBox="0 0 8.4666667 5.8208337"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="flag_poland_32x22.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="1980px"
+     inkscape:zoom="11.313708"
+     inkscape:cx="7.3362329"
+     inkscape:cy="12.506951"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true" />
+  <defs
+     id="defs2">
+    <filter
+       id="filter0_i"
+       x="0.103546"
+       y="0.072265603"
+       width="64"
+       height="64"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood8" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="BackgroundImageFix"
+         result="shape"
+         id="feBlend10" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix12" />
+      <feMorphology
+         radius="2"
+         operator="erode"
+         in="SourceAlpha"
+         result="effect1_innerShadow"
+         id="feMorphology14" />
+      <feOffset
+         dx="4"
+         dy="4"
+         id="feOffset16" />
+      <feGaussianBlur
+         stdDeviation="0.01266654"
+         id="feGaussianBlur18" />
+      <feComposite
+         in2="hardAlpha"
+         operator="arithmetic"
+         k2="-1"
+         k3="1"
+         id="feComposite20"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.4 0"
+         id="feColorMatrix22" />
+      <feBlend
+         mode="normal"
+         in2="shape"
+         result="effect1_innerShadow"
+         id="feBlend24" />
+    </filter>
+    <filter
+       id="filter0_i-5"
+       x="0.103546"
+       y="0.072265603"
+       width="64"
+       height="64"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood8-3" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="BackgroundImageFix"
+         result="shape"
+         id="feBlend10-3" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix12-5" />
+      <feMorphology
+         radius="2"
+         operator="erode"
+         in="SourceAlpha"
+         result="effect1_innerShadow"
+         id="feMorphology14-1" />
+      <feOffset
+         dx="4"
+         dy="4"
+         id="feOffset16-4" />
+      <feGaussianBlur
+         stdDeviation="0.01266654"
+         id="feGaussianBlur18-8" />
+      <feComposite
+         in2="hardAlpha"
+         operator="arithmetic"
+         k2="-1"
+         k3="1"
+         id="feComposite20-6"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.4 0"
+         id="feColorMatrix22-4" />
+      <feBlend
+         mode="normal"
+         in2="shape"
+         result="effect1_innerShadow"
+         id="feBlend24-7" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-316.60178,-110.11759)">
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:square"
+       id="rect1633"
+       width="8.4666672"
+       height="5.8208337"
+       x="316.60178"
+       y="110.11759" />
+    <g
+       id="g1435"
+       transform="matrix(0.26742832,0,0,0.39288867,264.11027,77.071517)"
+       style="stroke-width:3.08505">
+      <rect
+         style="fill:#dd0c39;fill-opacity:1;stroke:none;stroke-width:4.08127;stroke-linecap:square"
+         id="rect1431"
+         width="29.680851"
+         height="6.7343102"
+         x="197.2719"
+         y="91.51828" />
+      <rect
+         style="fill:#ffffff;stroke:none;stroke-width:4.08127;stroke-linecap:square"
+         id="rect1433"
+         width="29.680843"
+         height="6.7343102"
+         x="197.2719"
+         y="84.783974" />
+    </g>
+  </g>
+</svg>

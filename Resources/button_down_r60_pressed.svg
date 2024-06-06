@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="60.000004"
+   height="60.000004"
+   viewBox="0 0 15.875 15.875001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="button_down_r60_pressed.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="1980px"
+     inkscape:zoom="6.0007855"
+     inkscape:cx="29.496138"
+     inkscape:cy="48.910263"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-7"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-271.92898,-73.391519)">
+    <g
+       id="g827"
+       transform="matrix(0,-1,-1,0,361.19551,361.1955)">
+      <circle
+         style="fill:#7d4114;fill-opacity:1;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round"
+         id="path4248"
+         cx="279.86649"
+         cy="81.329018"
+         r="7.9375" />
+      <circle
+         style="fill:#fa8229;fill-opacity:1;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round"
+         id="circle4353"
+         cx="279.86649"
+         cy="81.329018"
+         r="6.3499999" />
+      <path
+         id="rect4573"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round"
+         d="m 277.38602,81.329018 3.96874,3.968751 0.99218,-0.992189 -2.97657,-2.976562 2.97657,-2.976562 -0.99218,-0.992187 z" />
+    </g>
+  </g>
+</svg>
